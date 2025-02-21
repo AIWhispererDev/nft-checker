@@ -1,0 +1,24 @@
+{
+  "name": "ethereum-address-checker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "NFT Whitelist Checker Application",
+  "dependencies": {
+    "express": "^4.18.2",
+    "csv-parser": "^3.0.0",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^7.1.5"
+  }
+}
