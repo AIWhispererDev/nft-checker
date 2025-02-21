@@ -1,7 +1,13 @@
 # NFT Whitelist Checker
 
+![image](https://github.com/user-attachments/assets/99c09959-dac3-4bc2-8f9e-babe039f3d95)
+
+
 ## Description
 A modern web application for checking Ethereum wallet addresses against a whitelist for NFT projects. Features a beautiful, responsive UI with a cyberpunk-inspired design.
+
+![image](https://github.com/user-attachments/assets/08556fad-cd08-4141-bc6e-68204a1c7a84)
+
 
 ## Features
 - ⚡ Real-time Ethereum address validation
