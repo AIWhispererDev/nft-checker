@@ -31,8 +31,8 @@ A modern web application for checking Ethereum wallet addresses against a whitel
 ### Setup
 1. Clone the repository:
 ```powershell
-git clone <your-repository-url>
-cd checker
+git clone https://github.com/AIWhispererDev/nft-checker.git
+cd nft-checker
 ```
 
 2. Install dependencies:
@@ -102,3 +102,6 @@ npm run dev
 
 ## License
 This project is licensed under the ISC License.
+
+## Contact
+- Project Link: [https://github.com/AIWhispererDev/nft-checker](https://github.com/AIWhispererDev/nft-checker)
